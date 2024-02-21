@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **patilsagar2400@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny**
+- ⚡ Fun fact **I can write interesting Bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

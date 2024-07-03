@@ -1,10 +1,8 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHUjzTLRIb_TQ/profile-displaybackgroundimage-shrink_350_1400/0/1688534059632?e=1714003200&v=beta&t=2i1FXobTx3dySP02aqxbgXsehGqWvvrzy5MTcV_SEGc)
 <h1 align="center">Hi 👋, I'm Shashikant patil</h1>
 <h3 align="center">A passionate Backend Devlopment from India</h3>
 <img align="right" alt="Coding" width="300" src="https://lh3.googleusercontent.com/a/ACg8ocKK5ClbU9LorXch29wlJl_OJSCussyyBdRn1A3CoYntcmo=s360-c-no">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-hub1&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-hub1" /> </p>
 
-- 🔭 I’m currently working on **Location Base attendance System(Using Java)**
 
 - 🌱 I’m currently learning **Spring Boot**
 

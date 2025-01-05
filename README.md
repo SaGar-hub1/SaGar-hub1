@@ -1,24 +1,31 @@
-<h1 align="center">Hi 👋, I'm Shashikant patil</h1>
-<h3 align="center">A passionate Backend Devlopment from India</h3>
-<img align="right" alt="Coding" width="300" src="https://lh3.googleusercontent.com/a/ACg8ocKK5ClbU9LorXch29wlJl_OJSCussyyBdRn1A3CoYntcmo=s360-c-no">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-hub1&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-hub1" /> </p>
+<h1 align="center">👋 Hey there, I'm Shashikant Patil!</h1>  
+<h3 align="center">🚀 Passionate Backend Developer | Building Smarter Systems from India</h3>  
 
+<img align="right" alt="Coding" width="300" src="https://lh3.googleusercontent.com/a/ACg8ocKK5ClbU9LorXch29wlJl_OJSCussyyBdRn1A3CoYntcmo=s360-c-no">  
 
-- 🌱 I’m currently learning **Spring Boot**
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=sagar-hub1&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-hub1" />  
+</p>  
 
-- 💬 Ask me about **Bootstrap**
+- 🌟 **Exploring the depths of** `Spring Boot` and `Java Backend Development`.  
+- 💬 **Ask me about** building robust APIs, optimizing databases, or why coffee is every developer's best friend!  
+- 📬 **Reach me at**: [patilsagar2400@gmail.com](mailto:patilsagar2400@gmail.com)  
+- ⚡ **Fun Fact**: My bugs sometimes double as unexpected features! 😄  
 
-- 📫 How to reach me **patilsagar2400@gmail.com**
+<h3 align="left">🌐 Let's Connect:</h3>  
+<p align="left">  
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shashikant15/" target="blank">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />  
+  </a>  
+  <a href="https://instagram.com/ll_mr.sagar_15_ll/" target="blank">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />  
+  </a>  
+  <a href="https://discord.gg/3590" target="blank">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Profile" height="30" width="40" />  
+  </a>  
+</p>  
 
-- ⚡ Fun fact **I can write interesting Bug**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashikant15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashikant15/" height="30" width="40" /></a>
-<a href="https://instagram.com/ll_mr.sagar_15_ll/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll_mr.sagar_15_ll/" height="30" width="40" /></a>
-<a href="https://discord.gg/3590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3590" height="30" width="40" /></a>
-</p>
-
+🎯 **Quote I Live By**: *"Code like there's no bug, debug like there's no deadline!"*  
 
 
 <h3 align="left">Languages and Tools:</h3>
